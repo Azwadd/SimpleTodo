@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Used the CodePath tutorial to gain insight on Android App development, which I utilized in my college Java course and got a 100% on my Java Android App for College. :D
 
 ## License
 
